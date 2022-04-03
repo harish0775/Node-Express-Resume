@@ -2,7 +2,4 @@
 deployment:
  tasks:
  - export DEPLOYPATH=/home/nodexehw/repositories/Node-Express-Resume/
- - /bin/cp *$DEPLOYPATH 
- 
-
-  
+ - /bin/cp *$DEPLOYPATH
