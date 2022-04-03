@@ -10,9 +10,9 @@ body {
 
 #body-header {
     height: 65vh;
-    opacity: 0.8;
-    background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
-    background-size: cover;
+    opacity: 0.9;
+    background-image: url("https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg");
+    background-size: contain;
     background-position: center;
     background-attachment: fixed;
     padding-top: 1.2rem;
